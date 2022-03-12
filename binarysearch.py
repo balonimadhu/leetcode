@@ -12,5 +12,5 @@ class Solution:
             else:
                 first_idx=mid+1
         if first_idx>last_idx:
-            return -
+            return -1
         
